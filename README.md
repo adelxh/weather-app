@@ -10,7 +10,7 @@ open weather app api fetch to display on the screen based on the enter key press
 
 Screenshots of the app: 
 ## Screenshot 1 (web view): 
-![SCREENSHOT] (https://github.com/adelxh/weather-app/blob/master/ss1.png)
+![Screenshot] (https://github.com/adelxh/weather-app/blob/master/ss1.png)
 
 ## Screenshot 2 (mobile view): 
-![SCREENSHOT] (https://github.com/adelxh/weather-app/blob/master/ss2.png)
+![Screenshot] (https://github.com/adelxh/weather-app/blob/master/ss2.png)
