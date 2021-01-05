@@ -10,11 +10,13 @@ body {
 main {
   min-height: 100vh;
   text-align: center;
+
 }
 
 .search-box {
   width: 100%;
   margin: 0 0 75px;
+
 }
 
 .search-box .search-bar {
@@ -35,6 +37,14 @@ main {
 .location-box .location {
   font-size: 32px;
   font-weight: 500;
+  padding: 5px;
+  background-color: rgba(210,231,110,0.9);
+  
+}
+.temp {
+  font-size: 25px;
+  font-weight: 500;
+  padding: 10px;
 }
 .date {
   font-size: 22px;
